@@ -1,5 +1,5 @@
 {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "lasttime": "2021-04-05 00:36:27",
     "author": "申龙",
     "className": "layout",
@@ -87,6 +87,14 @@
             "comType": "common",
             "comLangue": "vue",
             "innerComName": "容器"
+        },
+        {
+            "classId": "idm.componet.layout.IFlex",
+            "comName": "弹性布局",
+            "className": "IFlex",
+            "comType": "common",
+            "comLangue": "vue",
+            "innerComName": "格子"
         }
     ]
 }
